@@ -20,7 +20,8 @@
               "src/assets",
               "src/favicon.ico"
             ],
-            "styles": [
+            //Thiet lap css chung cho ca du an
+            "styles": [ 
               "node_modules/perfect-scrollbar/css/perfect-scrollbar.css",
               "src/assets/scss/material-dashboard.scss",
               "src/assets/css/demo.css"

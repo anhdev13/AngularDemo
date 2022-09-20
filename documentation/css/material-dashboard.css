@@ -14126,7 +14126,7 @@ a[aria-expanded="true"] .caret,
 .full-page > .content {
   min-height: calc(100vh - 80px); }
 
-.full-page .full-page-background {
+.full-page {
   position: absolute;
   z-index: 1;
   height: 100%;
